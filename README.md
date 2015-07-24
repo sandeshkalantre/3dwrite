@@ -1,6 +1,8 @@
 # 3dwrite
 Write 3D text using ascii characters
 
+- Use '-i' command line argument to start the program in interactive mode.
+- Type "C" to clear the screen.
 ##example text
 
 <pre>
